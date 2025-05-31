@@ -204,3 +204,33 @@ body {
 .sec-3-content p {
     font-size: 1.25rem;
 }
+
+.section-4 {
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 2rem;
+}
+
+.sec-4-content {
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 900px;
+    gap: 2rem;
+}
+
+.sec-4-content h2 {
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+.sec-4-img {
+    width: 1100px;
+}
