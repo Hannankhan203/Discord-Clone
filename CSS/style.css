@@ -54,7 +54,7 @@ body {
 }
 
 .hero {
-    height: 100vh;
+    height: 85vh;
     /* border: 2px solid black; */
     display: flex;
     flex-direction: column;
@@ -66,6 +66,7 @@ body {
 .hero h1 {
     font-size: 3rem;
     font-weight: 900;
+    color: white;
 }
 
 .hero p {
@@ -73,6 +74,7 @@ body {
     width: 800px;
     text-align: center;
     font-size: 1.2rem;
+    color: white;
 }
 
 .btns {
